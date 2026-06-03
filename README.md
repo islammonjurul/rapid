@@ -30,9 +30,6 @@ This automated planning domain can be integrated into real-world disaster respon
 <br>
 
 # Details
-## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). ([LICENSE](LICENSE))
 
 ## Manual
 
@@ -71,6 +68,21 @@ We welcome contributions to RAPID! If you have ideas, bug fixes, or improvements
 4. Push your changes to your forked repository.
 5. Submit a pull request with a description of your changes.
 
+## Citation
+
+If you use RAPID in your research, please cite
+
+```bibtex
+@inproceedings{islam2025rapid,
+  title={RAPID: Resilient Automated Planning for Intelligent Disaster Response},
+  author={Islam, Md Monjurul and Noor, Sabah Binte and Siddiqui, Fazlul Hasan},
+  booktitle={2025 2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}
+```
+
 ## Contact
 
-For any questions, suggestions, or support, feel free to open an issue or contact the repository owner at <rmimbd@outlook.com>.
+For any questions, suggestions, or support, feel free to open an issue or contact the repository owner at <monjurul.islam.cs@gmail.com>.
